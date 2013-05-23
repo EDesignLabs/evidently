@@ -1,0 +1,200 @@
+ body{
+	background-image: url('http://spetermandev.com/dtc2/img/moodboard.jpg');
+	background-repeat:"no-repeat";
+	background-attachment:"fixed";
+	font-family: 'Karla', sans-serif;
+}
+
+.wrap{
+
+	border: solid 2px white;
+	background-image: url('http://spetermandev.com/dtc2/img/fff_85.png');
+	margin-left:auto;
+	margin-right:auto;
+	width:1000px;
+	}
+
+header ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+header li
+{
+	display:inline;
+}
+
+
+.all-claim{
+	display: inline-block;
+	width: 120px;
+	border: 1px solid;
+	background-color: white;
+	padding: 8px;
+	min-height: 200px;
+	vertical-align: top;
+	margin:20px 15px;
+
+}
+header{
+	list-style-type:none;
+	
+	margin-left:auto;
+	margin-right:auto;
+	top:100px;
+	width:1000px;
+	height:110px;
+	text-align:center;
+	padding-bottom: 30px;
+}
+
+header img{
+	font-weight:700;
+	color:#000000;
+	padding: 12px;
+	font-size: 18px;
+	text-decoration:none;
+}
+header img{
+	padding:15px;
+	}
+	
+
+header a:hover{
+	background-color:#00ff00;
+}
+
+.window{
+	font-weight:700;
+	color:#000000;
+	padding: 12px;
+	font-size: 18px;
+	text-decoration:none;
+	border: solid 2px white;
+	background-image: url('http://spetermandev.com/dtc2/img/fff_85.png');
+	width: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.answer{
+	margin-left: auto;
+	margin-right: auto;
+	width:410px;
+	text-align:center;
+}
+.answer a{
+	font-weight:700;
+	color:#000000;
+	padding:5px;
+	font-size:35px;
+	text-decoration:none;
+	background-color:blue
+}
+.answer a:hover{
+	background-color:#00ff00;
+}
+.question h2{
+	text-align:center;
+	font-size:48px;
+	text-transform:uppercase;
+	background-color:yellow;
+	width: 680px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#thought{
+	font-size:28px;
+	color:#666666;
+	padding-bottom:10px;
+}
+.question{
+	background-image: url('http://spetermandev.com/dtc2/img/fff_85.png');
+	background-repeat:repeat;
+	position: relative;
+	z-index:2;
+	margin-left:auto;
+	margin-right:auto;
+	top:100px;
+	width:800px;
+	height:400px;
+	border: solid 2px white;
+	padding:17px;
+	font-weight:700;
+	
+}
+
+#results{
+	padding-top:100px;
+}
+
+.good{
+border:solid #000 1px;
+background-color:#0f0;
+}
+
+.bad{
+border:solid #000 1px;
+background-color:#f00;
+}
+
+.all-claims table{
+	width:880px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.voted{
+	background-color:#dfd;	
+}
+
+.voted tr th{
+	font-size:20px;
+	padding:10px 0;
+	}
+	
+.voted tr td{
+	font-size:16px;
+	padding:5px 10px;
+	text-align:center;
+}
+
+.voted tr td.text{
+	width:400px;
+}
+
+.voted-intro{
+	background-color:#0f0;
+	width:300px;
+	text-align:center;
+	margin:10px auto 10px auto;
+	padding:5px 0;
+}
+
+.new-intro{
+	background-color:#ff0;
+	width:300px;
+	text-align:center;
+	margin:10px auto 10px auto;
+	padding:5px 0;
+}
+
+.new{
+	background-color:#ffd;	
+}
+
+
+.hide{
+	display:none;
+	border:none;
+}
+
+.experiment{
+	background-color:white;
+}
+
+.upload-video{
+padding-top:50px
